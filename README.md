@@ -4,15 +4,15 @@
 ### This is a Python microservice that takes a URL of a static website as an input and identifies all the unique words and how many times they occur on a web               page. The output is a list of words in JSON format along with the frequency of occurrence (number of times the word is repeated).
 
 # Prerequisite:
- -Python    
- -BeautifulSoup   
- -requests   
- -Counter   
- -json  
+  -Python    
+  -BeautifulSoup   
+  -requests   
+  -Counter   
+  -json  
 
 # Installation:
 ### To use this microservice, you must have Python 3 installed on your system. You can install it from the
- -https://www.python.org/downloads/
+  -https://www.python.org/downloads/  
 
 ## To install the required libraries, run the following command in your terminal: 
  -pip install requests beautifulsoup4
