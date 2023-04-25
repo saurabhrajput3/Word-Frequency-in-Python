@@ -20,7 +20,7 @@
 # Example 
   - For url = "https://www.google.com"  
  
- Output:
+  - Output:  
  
  ![1](https://user-images.githubusercontent.com/97332062/234270383-4b6efaab-81ea-439f-844b-4bedf98a41f2.PNG)
 
