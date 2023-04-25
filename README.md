@@ -11,6 +11,10 @@
 
 ## To install the required libraries, run the following command in your terminal:  pip install requests beautifulsoup4
 
+# Example 
+ -For url = "https://www.google.com"
+ ![1](https://user-images.githubusercontent.com/97332062/234270383-4b6efaab-81ea-439f-844b-4bedf98a41f2.PNG)
+
 
 # Code Explanation:
    
