@@ -14,13 +14,13 @@
 
 # Code Explanation:
 
-##  from collections import Counter
-##  import json
-##  import re
-##  import requests
-##  from bs4 import BeautifulSoup
+from collections import Counter
+import json
+import re
+import requests
+from bs4 import BeautifulSoup
 
-### The above lines import the required libraries for the microservice. 'collections.Counter' is used to count the frequency of each word, 'json' is used to convert the     word counts into a JSON object, 're' is used for regular expression operations to remove non-word characters, 'requests' is used to fetch the webpage content, and       'bs4.BeautifulSoup' is used to extract text from the HTML tags.
+### The above lines import the required libraries for the microservice. 'collections.Counter' is used to count the frequency of each word, 'json' is used to convert   the     word counts into a JSON object, 're' is used for regular expression operations to remove non-word characters, 'requests' is used to fetch the webpage content, and       'bs4.BeautifulSoup' is used to extract text from the HTML tags.
 
 ## def get_word_counts(url):
 
