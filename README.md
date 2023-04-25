@@ -1,13 +1,18 @@
 # Word Counter Microservice
 
 # Summary:
-## This is a Python microservice that takes a URL of a static website as an input and identifies all the unique words and how many times they occur on a web      page.      The output is a list of words in JSON format along with the frequency of occurrence (number of times the word is repeated).
+### This is a Python microservice that takes a URL of a static website as an input and identifies all the unique words and how many times they occur on a web               page. The output is a list of words in JSON format along with the frequency of occurrence (number of times the word is repeated).
 
 # Prerequisite:
-### Python, BeautifulSoup, requests, Counter, json
+ -Python 
+ -BeautifulSoup 
+ -requests 
+ -Counter 
+ -json
 
 # Installation:
-### To use this microservice, you must have Python 3 installed on your system. You can install it from the https://www.python.org/downloads/
+### To use this microservice, you must have Python 3 installed on your system. You can install it from the
+ -https://www.python.org/downloads/
 
 ## To install the required libraries, run the following command in your terminal: 
  -pip install requests beautifulsoup4
@@ -15,6 +20,7 @@
 # Example 
  -For url = "https://www.google.com"
  
+ Output:
  
  ![1](https://user-images.githubusercontent.com/97332062/234270383-4b6efaab-81ea-439f-844b-4bedf98a41f2.PNG)
 
