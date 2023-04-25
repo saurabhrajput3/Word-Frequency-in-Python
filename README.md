@@ -12,13 +12,13 @@
 
 # Installation:
 ### To use this microservice, you must have Python 3 installed on your system. You can install it from the
-  - https://www.python.org/downloads/  
+  - https://www.python.org/downloads/    
 
 ## To install the required libraries, run the following command in your terminal: 
-  - pip install requests beautifulsoup4
+  - pip install requests beautifulsoup4  
 
 # Example 
-  - For url = "https://www.google.com"
+  - For url = "https://www.google.com"  
  
  Output:
  
